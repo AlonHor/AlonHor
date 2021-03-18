@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alon
+- 👀 I’m interested in Java and JavaScript
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on Minecraft Spigot Plugins, Discord bots, or Scripting
