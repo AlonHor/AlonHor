@@ -14,7 +14,7 @@ I was also a [Minecraft](https://minecraft.net) [Spigot](https://spigotmc.org/) 
 ### Technical information
 - I am coding on [VScode](https://code.visualstudio.com/).
 - I run [Windows 10](https://www.microsoft.com/he-il/software-download/windows10).
-- I have 8GB of RAM.
+- I have 16GB of RAM.
 
 ### Some fun information
 - I sometimes play [Minecraft](https://minecraft.net).
