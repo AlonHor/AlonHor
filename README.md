@@ -12,7 +12,7 @@ I was also a [Minecraft](https://minecraft.net) [Spigot](https://spigotmc.org/) 
 - [Skript](https://dev.bukkit.org/projects/skript) (Not really a coding language but I'll include this anyways)
 
 ### Technical information
-- I am coding on [VScode](https://code.visualstudio.com/).
+- I am coding on [VScode](https://code.visualstudio.com/), [Eclipse](https://www.eclipse.org/), and sometimes [IntelliJ IDEA](https://www.jetbrains.com/idea/).
 - I run [Windows 10](https://www.microsoft.com/he-il/software-download/windows10).
 - I have 16GB of RAM.
 
