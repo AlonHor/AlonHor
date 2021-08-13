@@ -1,7 +1,7 @@
 # About me
-Hello! I am Alon. I am currently working on coding [Discord](https://discord.com/) bots using [NodeJS](https://nodejs.org).
-As you can see I have only a few public repos because I'm mostly working on private ones only to connect them with [Heroku](https://heroku.com).
-I was also a [Minecraft](https://minecraft.net) [Spigot](https://spigotmc.org/) plugin developer earlier this year, but I am currently not focusing on that.
+My name is Alon.
+I enjoy flying planes on flight Simulators (such as [X-Plane 11](https://www.x-plane.com/), [FSX](https://store.steampowered.com/app/314160/Microsoft_Flight_Simulator_X_Steam_Edition/), and [Microsoft Flight Simulator](https://www.flightsimulator.com/)) and playing [Minecraft](https://minecraft.net).
+I like coding in various languages and making minecraft plugins using [Java](https://www.oracle.com/java/), and [Skript](https://dev.bukkit.org/projects/skript).
 
 ### Experienced coding languages
 - [JavaScript](https://www.javascript.com/) / [NodeJS](https://nodejs.org/)
@@ -15,10 +15,5 @@ I was also a [Minecraft](https://minecraft.net) [Spigot](https://spigotmc.org/) 
 - I am coding on [VScode](https://code.visualstudio.com/), [Eclipse](https://www.eclipse.org/), and sometimes [IntelliJ IDEA](https://www.jetbrains.com/idea/).
 - I run [Windows 10](https://www.microsoft.com/he-il/software-download/windows10).
 - I have 16GB of RAM.
-
-### Some fun information
-- I sometimes play [Minecraft](https://minecraft.net).
-- I was used to fly planes on [X-Plane 11](https://www.x-plane.com/) Flight Simulator.
-- I have experience with [Skript](https://dev.bukkit.org/projects/skript).
 
 Thanks for checking me out!
