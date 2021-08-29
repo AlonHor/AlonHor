@@ -1,6 +1,6 @@
 # About me
 My name is Alon.
-I enjoy flying planes on flight Simulators (such as [X-Plane 11](https://www.x-plane.com/), [FSX](https://store.steampowered.com/app/314160/Microsoft_Flight_Simulator_X_Steam_Edition/), and [Microsoft Flight Simulator](https://www.flightsimulator.com/)) and playing [Minecraft](https://minecraft.net).
+I enjoy flying planes on Flight Simulators (such as [X-Plane 11](https://www.x-plane.com/), [FSX](https://store.steampowered.com/app/314160/Microsoft_Flight_Simulator_X_Steam_Edition/), and [Microsoft Flight Simulator](https://www.flightsimulator.com/)) and playing [Minecraft](https://minecraft.net).
 I like coding in various languages and making minecraft plugins using [Java](https://www.oracle.com/java/), and [Skript](https://dev.bukkit.org/projects/skript).
 
 ### Experienced coding languages
