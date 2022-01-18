@@ -1,6 +1,5 @@
 # About me
-My name is Alon.
-I enjoy coding in various languages and making minecraft plugins using [Java](https://www.oracle.com/java/), and [Skript](https://dev.bukkit.org/projects/skript).
+I code in various languages and I make minecraft plugins using [Java](https://www.oracle.com/java/), and [Skript](https://dev.bukkit.org/projects/skript).
 
 ### Experienced coding languages
 - [JavaScript](https://www.javascript.com/) / [NodeJS](https://nodejs.org/)
@@ -11,7 +10,7 @@ I enjoy coding in various languages and making minecraft plugins using [Java](ht
 - [Skript](https://dev.bukkit.org/projects/skript) (Not really a coding language but I'll include this anyways)
 
 ### Technical information
-- I am coding on [VSCode](https://code.visualstudio.com/), [Eclipse](https://www.eclipse.org/), and mostly [IntelliJ IDEA](https://www.jetbrains.com/idea/).
+- I code in [VSCode](https://code.visualstudio.com/), [Eclipse](https://www.eclipse.org/), and mostly [IntelliJ IDEA](https://www.jetbrains.com/idea/).
 - I run Windows 11.
 - I have 16GB of RAM.
 
