@@ -1,5 +1,5 @@
 # About me
-Currently Learning [React Native](https://reactnative.dev)...
+Currently Learning [RedwoodJS](https://redwoodjs.com)...
 
 ### Programming languages I know
 - [JavaScript](https://www.javascript.com) / [TypeScript](https://www.typescriptlang.org) / [NodeJS](https://nodejs.org)
@@ -14,6 +14,7 @@ Currently Learning [React Native](https://reactnative.dev)...
 ### Frameworks I use
 - [ReactJS](https://reactjs.org)
 - [React Native (still learning)](https://reactnative.dev)
+- [RedwoodJS (still learning)](https://redwoodjs.com)
 - [NuxtJS 3](https://v3.nuxtjs.org)
 - [NextJS](https://nextjs.org)
 - [VueJS](https://vuejs.org)
