@@ -1,5 +1,5 @@
-# About me
-Currently Learning [RedwoodJS](https://redwoodjs.com)...
+<h1 align="center">Alon</h1>
+<h3 align="center">Currently leveling up in React</h3>
 
 ### Programming languages I know
 - [JavaScript](https://www.javascript.com) / [TypeScript](https://www.typescriptlang.org) / [NodeJS](https://nodejs.org)
