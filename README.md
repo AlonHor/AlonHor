@@ -1,5 +1,5 @@
 <h1 align="center">Alon</h1>
-<h3 align="center">Currently leveling up in Python</h3>
+<h3 align="center">Currently studying Machine Learning and AI with Python</h3>
 
 ### Programming languages I know
 - [JavaScript](https://www.javascript.com) / [TypeScript](https://www.typescriptlang.org) / [NodeJS](https://nodejs.org)
