@@ -1,5 +1,5 @@
 <h1 align="center">Alon</h1>
-<h3 align="center">Currently studying Machine Learning and AI with Python</h3>
+<h3 align="center">Currently Learning C++</h3>
 
 ### Programming languages I know
 - [JavaScript](https://www.javascript.com) / [TypeScript](https://www.typescriptlang.org) / [NodeJS](https://nodejs.org)
@@ -7,11 +7,12 @@
 - [PHP](https://www.php.net)
 - [Java](https://www.oracle.com/java)
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+- [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 - [Python](https://www.python.org)
 - [SQL](https://en.wikipedia.org/wiki/SQL)
 - [Skript](https://dev.bukkit.org/projects/skript) (Not really a coding language but I'll include it anyway)
 
-### Frameworks I use
+### Web Frameworks I use
 - [ReactJS](https://reactjs.org)
 - [React Native (still learning)](https://reactnative.dev)
 - [RedwoodJS (still learning)](https://redwoodjs.com)
@@ -34,6 +35,5 @@
 - I usually code in [VSCode](https://code.visualstudio.com).
 - I use [Windows 11](https://www.microsoft.com/en-us/windows/windows-11).
 - I use the [One Dark Pro Darker](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) theme for [VSCode](https://code.visualstudio.com).
-- I use mongoose [1](https://mongoosejs.com), [2](https://www.npmjs.com/package/mongoose) to interact with [MongoDB](https://mongodb.com), and [pg](https://www.npmjs.com/package/pg) to interact with [PostgreSQL](https://www.postgresql.org).
 
 Thanks for checking me out!
