@@ -33,9 +33,9 @@
 - Coding...
 
 ### Technical information
-- I usually code in [VSCode](https://code.visualstudio.com).
+- I usually code in [VSCode](https://code.visualstudio.com) and in [IntelliJ IDEA](https://www.jetbrains.com/idea).
 - I use [Windows 11](https://www.microsoft.com/en-us/windows/windows-11).
 - I use the [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) theme for [VSCode](https://code.visualstudio.com).
-- I use the [GitHub Dark](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) theme for [IntelliJ IDEA](https://www.jetbrains.com/idea).
+- I use the [Atom One Dark](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) theme for [IntelliJ IDEA](https://www.jetbrains.com/idea).
 
 Thanks for checking me out!
