@@ -1,5 +1,5 @@
 <h1 align="center">Alon</h1>
-<h3 align="center">Currently Learning C++ & Kotlin</h3>
+<h3 align="center">Currently Learning Rust</h3>
 
 ### Programming languages I have experience with
 - [JavaScript](https://www.javascript.com) / [TypeScript](https://www.typescriptlang.org) / [NodeJS](https://nodejs.org)
@@ -7,6 +7,7 @@
 - [PHP](https://www.php.net)
 - [Java](https://www.oracle.com/java)
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+- [Rust](https://www.rust-lang.org)
 - [Kotlin](https://kotlinlang.org)
 - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 - [Python](https://www.python.org)
