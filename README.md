@@ -34,9 +34,9 @@
 - Coding...
 
 ### Technical information
-- I usually code in [VSCode](https://code.visualstudio.com) and in [IntelliJ IDEA](https://www.jetbrains.com/idea).
-- I use [Windows 11](https://www.microsoft.com/en-us/windows/windows-11).
-- I use the [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) theme for [VSCode](https://code.visualstudio.com).
-- I use the [Atom One Dark](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) theme for [IntelliJ IDEA](https://www.jetbrains.com/idea).
+- I code in [Neovim](https://neovim.io).
+- I used to code in [VSCode](https://code.visualstudio.com) and in [IntelliJ IDEA](https://www.jetbrains.com/idea).
+- I use [Pop!\_OS](https://pop.system76.com) which is a fork of [Ubuntu](https://ubuntu.com)
+- I use [Gruvbox](https://github.com/gruvbox-community/gruvbox) colorscheme for [Neovim](https://neovim.io).
 
 Thanks for checking me out!
