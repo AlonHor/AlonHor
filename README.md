@@ -11,6 +11,7 @@
 - [Kotlin](https://kotlinlang.org)
 - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 - [Python](https://www.python.org)
+- [Lua](https://www.lua.org)
 - [SQL](https://en.wikipedia.org/wiki/SQL)
 - [Skript](https://dev.bukkit.org/projects/skript) (Not really a coding language but I'll include it anyway)
 
