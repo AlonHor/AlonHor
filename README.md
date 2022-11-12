@@ -1,8 +1,7 @@
 <h1 align="center">Alon</h1>
-<h3 align="center">Currently Practicing TypeScript</h3>
+<h3 align="center">Currently migrating to NextJS 13...</h3>
 
 <div>
-  <a href="https://github.com/AlonHor">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlonHor&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlonHor&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
@@ -26,14 +25,16 @@
 - [React Native (still learning)](https://reactnative.dev)
 - [RedwoodJS (still learning)](https://redwoodjs.com)
 - [NuxtJS 3](https://v3.nuxtjs.org)
-- [NextJS](https://nextjs.org)
+- [NextJS 13](https://nextjs.org)
 - [VueJS](https://vuejs.org)
+- [SolidJS](https://www.solidjs.com)
 
 ### Tools I have experience with
 - [Tailwind CSS](https://tailwindcss.com)
 - [Bootstrap](https://getbootstrap.com)
 - [MongoDB](https://www.mongodb.com)
 - [PostgreSQL](https://www.postgresql.org)
+- [Firebase](https://firebase.google.com)
 
 ### Hobbies
 - Playing [Minecraft](https://minecraft.net).
@@ -42,7 +43,7 @@
 
 ### Technical information
 - I code in [Neovim](https://neovim.io).
-- I used to code in [VSCode](https://code.visualstudio.com) and in [IntelliJ IDEA](https://www.jetbrains.com/idea).
+- I also sometimes code in [VSCode](https://code.visualstudio.com) and in [IntelliJ IDEA](https://www.jetbrains.com/idea).
 - I use [Pop!\_OS](https://pop.system76.com) which is a fork of [Ubuntu](https://ubuntu.com)
 - I use [Gruvbox](https://github.com/gruvbox-community/gruvbox) colorscheme for [Neovim](https://neovim.io).
 
