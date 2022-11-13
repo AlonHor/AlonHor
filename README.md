@@ -22,8 +22,8 @@
 
 ### Web Frameworks I have experience with
 - [ReactJS](https://reactjs.org)
-- [React Native (still learning)](https://reactnative.dev)
-- [RedwoodJS (still learning)](https://redwoodjs.com)
+- [React Native](https://reactnative.dev)
+- [RedwoodJS](https://redwoodjs.com)
 - [NuxtJS 3](https://v3.nuxtjs.org)
 - [NextJS 13](https://nextjs.org)
 - [VueJS](https://vuejs.org)
