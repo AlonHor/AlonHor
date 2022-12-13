@@ -1,10 +1,5 @@
 <h1 align="center">Alon</h1>
-<h3 align="center">Currently migrating to NextJS 13...</h3>
-
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlonHor&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlonHor&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
+<h3 align="center">Currently improving my TypeScript skills...</h3>
 
 ### Programming languages I have experience with
 - [JavaScript](https://www.javascript.com) / [TypeScript](https://www.typescriptlang.org) / [NodeJS](https://nodejs.org)
