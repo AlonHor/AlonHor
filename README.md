@@ -34,14 +34,13 @@
 - [Firebase](https://firebase.google.com)
 
 ### Hobbies
-- Playing [Minecraft](https://minecraft.net).
+- Playing [Overwatch](https://overwatch.blizzard.com).
 - Learning new programming languages.
 - Coding...
 
 ### Technical information
-- I code in [Neovim](https://neovim.io).
+- I code in [Neovim](https://neovim.io) using [NvChad](https://github.com/NvChad/NvChad) config.
 - I also sometimes code in [VSCode](https://code.visualstudio.com) and in [IntelliJ IDEA](https://www.jetbrains.com/idea).
-- I use [Pop!\_OS](https://pop.system76.com) which is a fork of [Ubuntu](https://ubuntu.com)
-- I use [Gruvbox](https://github.com/gruvbox-community/gruvbox) colorscheme for [Neovim](https://neovim.io).
+- I use [Windows 11](https://www.microsoft.com/en-us/windows/windows-11).
 
-Thanks for checking me out!
+Thanks for checking out!
