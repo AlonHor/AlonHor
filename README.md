@@ -1,5 +1,5 @@
 <h1 align="center">Alon</h1>
-<h3 align="center">Currently learning flutter</h3>
+<h3 align="center">Currently learning Flutter</h3>
 
 ### Programming languages I have experience with
 - [JavaScript](https://www.javascript.com) / [TypeScript](https://www.typescriptlang.org) / [NodeJS](https://nodejs.org)
