@@ -1,9 +1,10 @@
 <h1 align="center">Alon</h1>
-<h3 align="center">Currently improving my TypeScript skills...</h3>
+<h3 align="center">Currently learning flutter</h3>
 
 ### Programming languages I have experience with
 - [JavaScript](https://www.javascript.com) / [TypeScript](https://www.typescriptlang.org) / [NodeJS](https://nodejs.org)
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) / [CSS](https://en.wikipedia.org/wiki/CSS) (Markup and StyleSheet languages, but including it here anyway)
+- [Dart](https://dart.dev)
 - [PHP](https://www.php.net)
 - [Java](https://www.oracle.com/java)
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
@@ -23,6 +24,7 @@
 - [NextJS 13](https://nextjs.org)
 - [VueJS](https://vuejs.org)
 - [SolidJS](https://www.solidjs.com)
+- [Flutter](https://flutter.dev)
 
 ### Tools I have experience with
 - [Tailwind CSS](https://tailwindcss.com)
