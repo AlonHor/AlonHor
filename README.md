@@ -34,7 +34,6 @@
 - [Firebase](https://firebase.google.com)
 
 ### Hobbies
-- Playing [Overwatch](https://overwatch.blizzard.com).
 - Learning new programming languages.
 - Coding...
 
