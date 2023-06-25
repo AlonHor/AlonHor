@@ -1,5 +1,5 @@
 <h1 align="center">Alon</h1>
-<h3 align="center">Currently learning Flutter</h3>
+<h3 align="center">Currently improving...</h3>
 
 ### Programming languages I have experience with
 - [JavaScript](https://www.javascript.com) / [TypeScript](https://www.typescriptlang.org) / [NodeJS](https://nodejs.org)
@@ -38,8 +38,7 @@
 - Coding...
 
 ### Technical information
-- I code in [Neovim](https://neovim.io) using [NvChad](https://github.com/NvChad/NvChad) config.
-- I also sometimes code in [VSCode](https://code.visualstudio.com) and in [IntelliJ IDEA](https://www.jetbrains.com/idea).
+- I code in either [Neovim](https://neovim.io) using [NvChad](https://github.com/NvChad/NvChad) config, or in [VSCode](https://code.visualstudio.com) / [IntelliJ IDEA](https://www.jetbrains.com/idea).
 - I use [Windows 11](https://www.microsoft.com/en-us/windows/windows-11).
 
 Thanks for checking out!
