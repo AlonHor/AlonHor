@@ -1,9 +1,9 @@
 <h1 align="center">Alon</h1>
-<h3 align="center">Currently improving...</h3>
+<h3 align="center">Currently Improving :)</h3>
 
 ### Programming languages I have experience with
 - [JavaScript](https://www.javascript.com) / [TypeScript](https://www.typescriptlang.org) / [NodeJS](https://nodejs.org)
-- [HTML5](https://en.wikipedia.org/wiki/HTML5) / [CSS](https://en.wikipedia.org/wiki/CSS) (Markup and StyleSheet languages, but including it here anyway)
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) / [CSS](https://en.wikipedia.org/wiki/CSS)
 - [Dart](https://dart.dev)
 - [PHP](https://www.php.net)
 - [Java](https://www.oracle.com/java)
@@ -14,7 +14,7 @@
 - [Python](https://www.python.org)
 - [Lua](https://www.lua.org)
 - [SQL](https://en.wikipedia.org/wiki/SQL)
-- [Skript](https://dev.bukkit.org/projects/skript) (Not really a coding language but I'll include it anyway)
+- [Skript](https://dev.bukkit.org/projects/skript)
 
 ### Web Frameworks I have experience with
 - [ReactJS](https://reactjs.org)
@@ -34,8 +34,7 @@
 - [Firebase](https://firebase.google.com)
 
 ### Hobbies
-- Learning new programming languages.
-- Coding...
+- Coding
 
 ### Technical information
 - I code in either [Neovim](https://neovim.io) using [NvChad](https://github.com/NvChad/NvChad) config, or in [VSCode](https://code.visualstudio.com) / [IntelliJ IDEA](https://www.jetbrains.com/idea).
