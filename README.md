@@ -39,7 +39,7 @@
 - Coding
 
 ### Technical information
-- I code in either [Neovim](https://neovim.io) using [NvChad](https://github.com/NvChad/NvChad) config, in [gVim] when doing assembly, or in [VSCode](https://code.visualstudio.com) / [JetBrains Products](https://www.jetbrains.com/) when doing C# / C / C++.
+- I code in either [Neovim](https://neovim.io) using [NvChad](https://github.com/NvChad/NvChad) config, in [gVim](https://www.vim.org) when in assembly, or in [VSCode](https://code.visualstudio.com)/[JetBrains](https://www.jetbrains.com/) when doing C#/C/C++.
 - I use [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) with a [Kali Linux](https://www.kali.org) WSL.
 
 Thanks for checking out!
