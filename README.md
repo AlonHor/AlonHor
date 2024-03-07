@@ -1,5 +1,5 @@
 <h1 align="center">Alon</h1>
-<h3 align="center">Currently Improving :)</h3>
+<h3 align="center">Status: Learning Rust</h3>
 
 ### Programming languages I have experience with
 - [JavaScript](https://www.javascript.com) / [TypeScript](https://www.typescriptlang.org) / [NodeJS](https://nodejs.org)
