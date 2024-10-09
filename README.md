@@ -42,12 +42,13 @@
 - [Wireshark](https://www.wireshark.org)
 
 ### My hobbies:
-- Playing guitar, piano
-- Coding
-- Reverse engineering
+- Playing the guitar and piano.
+- Coding.
+- Reverse engineering.
+- Finding exploits (*and reporting them of course :D*).
 
 ### Technical information:
-- Editor or IDE: [Zed](https://zed.dev) / [VSCode](https://code.visualstudio.com) / [JetBrains](https://www.jetbrains.com/) when doing C#/C/C++/TS, all with [VIM](https://www.vim.org) keybinds.
+- Editor or IDE: [Zed](https://zed.dev) / [VSCode](https://code.visualstudio.com) / [JetBrains](https://www.jetbrains.com/), all with [vim](https://www.vim.org) keybinds.
 - Operating System: [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) with a [Kali Linux](https://www.kali.org) WSL.
 - Reverse Engineering Setup: [IDA](https://hex-rays.com/ida-free) alongside [ImHex](https://imhex.werwolv.net) to reverse engineer software.
 
