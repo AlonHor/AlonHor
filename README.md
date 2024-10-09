@@ -1,6 +1,10 @@
 <h1 align="center">Alon Horesh</h1>
 <h3 align="center"><a href="https://alonhoresh.com">My Website</a></h3>
 
+### A few cool achievements worth mentioning:
+- *At 5th grade I found a **major exploit** in my elementary school's website. I reported it and it got fixed by the developers.*
+- *At 9th grade I managed to phish the phone numbers of **all students** in my school (for educational purposes).*
+
 ### Programming languages I have experience with:
 - [JavaScript](https://www.javascript.com) / [TypeScript](https://www.typescriptlang.org) / [NodeJS](https://nodejs.org)
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) / [CSS](https://en.wikipedia.org/wiki/CSS)
@@ -18,7 +22,7 @@
 - [SQL](https://en.wikipedia.org/wiki/SQL)
 - [Skript](https://dev.bukkit.org/projects/skript)
 
-### Web Frameworks I have experience with:
+### Web frameworks and libraries I have experience with:
 - [ReactJS](https://reactjs.org)
 - [React Native](https://reactnative.dev)
 - [RedwoodJS](https://redwoodjs.com)
@@ -45,10 +49,8 @@
 - Reverse engineering
 
 ### Technical information:
-- Editor or IDE: [VSCode](https://code.visualstudio.com) / [JetBrains](https://www.jetbrains.com/) when doing C#/C/C++/TS, both with [VIM](https://www.vim.org) keybinds.
+- Editor or IDE: [Zed](https://zed.dev) / [VSCode](https://code.visualstudio.com) / [JetBrains](https://www.jetbrains.com/) when doing C#/C/C++/TS, all with [VIM](https://www.vim.org) keybinds.
 - Operating System: [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) with a [Kali Linux](https://www.kali.org) WSL.
 - Reverse Engineering Setup: [IDA](https://hex-rays.com/ida-free) alongside [ImHex](https://imhex.werwolv.net) to reverse engineer software.
-- I use [Chromium DevTools](https://developer.chrome.com/docs/devtools) to trace front-end websites to find things that _shouldn't_ be on the client.
-- I use [Wireshark](https://www.wireshark.org) when I do network stuff.
 
 Thanks for checking out!
