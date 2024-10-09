@@ -1,10 +1,6 @@
 <h1 align="center">Alon Horesh</h1>
 <h3 align="center"><a href="https://alonhoresh.com">My Website</a></h3>
 
-### A few cool achievements worth mentioning:
-- *At 5th grade I found a **major exploit** in my elementary school's website. I reported it and it got fixed by the developers.*
-- *At 9th grade I managed to phish the phone numbers of **all students** in my school (for educational purposes).*
-
 ### Programming languages I have experience with:
 - [JavaScript](https://www.javascript.com) / [TypeScript](https://www.typescriptlang.org) / [NodeJS](https://nodejs.org)
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) / [CSS](https://en.wikipedia.org/wiki/CSS)
@@ -46,6 +42,10 @@
 - Coding.
 - Reverse engineering.
 - Finding exploits (*and reporting them of course :D*).
+
+### A few cool achievements worth mentioning:
+- *At 5th grade I found a **major exploit** in my elementary school's website. I reported it and it got fixed by the developers.*
+- *At 9th grade I managed to phish the phone numbers of **all students** in my school (for educational purposes).*
 
 ### Technical information:
 - Editor or IDE: [Zed](https://zed.dev) / [VSCode](https://code.visualstudio.com) / [JetBrains](https://www.jetbrains.com/), all with [vim](https://www.vim.org) keybinds.
