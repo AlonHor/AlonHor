@@ -11,16 +11,14 @@
 - [Dart](https://dart.dev)
 - [PHP](https://www.php.net)
 - [Java](https://www.oracle.com/java)
+- [Kotlin](https://kotlinlang.org)
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - [C](https://en.wikipedia.org/wiki/C_(programming_language))
 - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-- [Rust](https://www.rust-lang.org)
-- [Kotlin](https://kotlinlang.org)
 - [x86 Assembly](https://en.wikipedia.org/wiki/Assembly_language)
 - [Python](https://www.python.org)
 - [Lua](https://www.lua.org)
 - [SQL](https://en.wikipedia.org/wiki/SQL)
-- [Skript](https://dev.bukkit.org/projects/skript)
 
 ### Web frameworks and libraries I have experience with:
 - [ReactJS](https://reactjs.org)
