@@ -57,7 +57,7 @@
 
 ### Technical information:
 - Editor or IDE: [Zed](https://zed.dev) / [VSCode](https://code.visualstudio.com) / [JetBrains](https://www.jetbrains.com/), all with [vim](https://www.vim.org) keybinds.
-- Operating System: [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) with a [Kali Linux](https://www.kali.org) WSL.
+- Operating System: [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) PC | [Kali Linux](https://www.kali.org) laptop.
 - Reverse Engineering Setup: [IDA](https://hex-rays.com/ida-free) alongside [ImHex](https://imhex.werwolv.net).
 
 Thanks for checking out!
