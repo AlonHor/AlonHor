@@ -34,7 +34,7 @@
 - [Redux](https://redux.js.org)
 - [IDA](https://hex-rays.com/ida-free)
 - [ImHex](https://imhex.werwolv.net)
-- [Chromium DevTools](https://developer.chrome.com/docs/devtools)
+- [Ettercap](https://www.ettercap-project.org)
 - [Wireshark](https://www.wireshark.org)
 
 ### My hobbies:
@@ -42,6 +42,14 @@
 - Coding.
 - Reverse engineering.
 - Finding exploits (*and reporting them of course :D*).
+- Learning.
+
+### I'm familiar with:
+- Full-stack web development.
+- Networking.
+- Low-end languages and reverse engineering (ASM, C, C++...).
+- High-end VM/interpeted languages (C#, TS, Java...).
+- Software design patterns and principles (DDD, SOLID, MVC, EDA...).
 
 ### A few cool achievements worth mentioning:
 - At 5th grade I found a major exploit in my elementary school's website. I reported it and it got fixed by the developers.
@@ -50,6 +58,6 @@
 ### Technical information:
 - Editor or IDE: [Zed](https://zed.dev) / [VSCode](https://code.visualstudio.com) / [JetBrains](https://www.jetbrains.com/), all with [vim](https://www.vim.org) keybinds.
 - Operating System: [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) with a [Kali Linux](https://www.kali.org) WSL.
-- Reverse Engineering Setup: [IDA](https://hex-rays.com/ida-free) alongside [ImHex](https://imhex.werwolv.net) to reverse engineer software.
+- Reverse Engineering Setup: [IDA](https://hex-rays.com/ida-free) alongside [ImHex](https://imhex.werwolv.net).
 
 Thanks for checking out!
