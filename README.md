@@ -46,9 +46,9 @@
 
 ### I'm familiar with:
 - Full-stack web development.
-- Networking.
-- Low-end languages and reverse engineering (ASM, C, C++...).
-- High-end VM/interpeted languages (C#, TS, Java...).
+- Low-level networking protocols, concepts and implementations.
+- Low-level languages and reverse engineering (ASM, C, C++...).
+- High-level VM/interpeted languages (C#, TS, Java...).
 - Software design patterns and principles (DDD, SOLID, MVC, EDA...).
 
 ### A few cool achievements worth mentioning:
