@@ -32,7 +32,7 @@
 - [PostgreSQL](https://www.postgresql.org)
 - [Firebase](https://firebase.google.com)
 - [Redux](https://redux.js.org)
-- [IDA](https://hex-rays.com/ida-free)
+- [IDA](https://hex-rays.com/ida-pro)
 - [ImHex](https://imhex.werwolv.net)
 - [Ettercap](https://www.ettercap-project.org)
 - [Wireshark](https://www.wireshark.org)
