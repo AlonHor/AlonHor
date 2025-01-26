@@ -53,7 +53,7 @@
 
 ### A few cool achievements worth mentioning:
 - At 5th grade I found a major exploit in my elementary school's website. I reported it and it got fixed by the developers.
-- At 9th grade I managed to phish the phone numbers of **all students** in my school (for educational purposes).
+- At 8th grade I managed to phish the phone numbers of **all students** in my school (for educational purposes).
 
 ### Technical information:
 - Editor or IDE: [Zed](https://zed.dev) / [VSCode](https://code.visualstudio.com) / [JetBrains](https://www.jetbrains.com/), all with [vim](https://www.vim.org) keybinds.
