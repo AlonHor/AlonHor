@@ -10,6 +10,7 @@
 - [Kotlin](https://kotlinlang.org)
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - [C](https://en.wikipedia.org/wiki/C_(programming_language))
+- [Rust](https://rust-lang.org)
 - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 - [x86 Assembly](https://en.wikipedia.org/wiki/Assembly_language)
 - [Python](https://www.python.org)
@@ -47,7 +48,7 @@
 ### I'm familiar with:
 - Full-stack web development.
 - Low-level networking protocols, concepts and implementations.
-- Low-level languages and reverse engineering (ASM, C, C++...).
+- Low-level languages and reverse engineering (ASM, C, C++, Rust...).
 - High-level VM/interpeted languages (C#, TS, Java...).
 - Software design patterns and principles (DDD, SOLID, MVC, EDA...).
 
