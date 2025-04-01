@@ -1,64 +1,66 @@
 <h1 align="center">Alon Horesh</h1>
-<h3 align="center"><a href="https://alonhoresh.com">My Website</a></h3>
+<h3 align="center"><a href="https://alonhoresh.com">Visit My Website</a></h3>
 
-### Programming languages I have experience with:
-- [JavaScript](https://www.javascript.com) / [TypeScript](https://www.typescriptlang.org) / [NodeJS](https://nodejs.org)
-- [HTML5](https://en.wikipedia.org/wiki/HTML5) / [CSS](https://en.wikipedia.org/wiki/CSS)
-- [Dart](https://dart.dev)
-- [PHP](https://www.php.net)
-- [Java](https://www.oracle.com/java)
-- [Kotlin](https://kotlinlang.org)
-- [C++](https://en.wikipedia.org/wiki/C%2B%2B)
-- [C](https://en.wikipedia.org/wiki/C_(programming_language))
-- [Rust](https://rust-lang.org)
-- [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-- [x86 Assembly](https://en.wikipedia.org/wiki/Assembly_language)
-- [Python](https://www.python.org)
-- [Lua](https://www.lua.org)
-- [SQL](https://en.wikipedia.org/wiki/SQL)
+---
 
-### Web frameworks and libraries I have experience with:
-- [ReactJS](https://reactjs.org)
-- [React Native](https://reactnative.dev)
-- [RedwoodJS](https://redwoodjs.com)
-- [NuxtJS 3](https://v3.nuxtjs.org)
+## About Me
+I’m Alon Horesh, a software developer with expertise in coding, reverse engineering, and cybersecurity. My experience spans full-stack web development, low-level programming, and exploit discovery. I’m committed to staying up to date with new technologies and refining my skills. I also mentor students in a high school cyber program. Beyond tech, I enjoy playing guitar and piano.
+
+---
+
+## Skills
+
+### Programming Languages
+- **Web:** [JavaScript](https://www.javascript.com), [TypeScript](https://www.typescriptlang.org), [NodeJS](https://nodejs.org), [HTML5](https://en.wikipedia.org/wiki/HTML5), [CSS](https://en.wikipedia.org/wiki/CSS)
+- **Mobile:** [Dart](https://dart.dev), [Kotlin](https://kotlinlang.org)
+- **Systems:** [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B), [Rust](https://rust-lang.org), [x86 Assembly](https://en.wikipedia.org/wiki/Assembly_language)
+- **General Purpose:** [Python](https://www.python.org), [Java](https://www.oracle.com/java), [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), [Lua](https://www.lua.org)
+- **Databases:** [SQL](https://en.wikipedia.org/wiki/SQL), [PHP](https://www.php.net)
+
+### Web Frameworks
+- [ReactJS](https://reactjs.org) & [React Native](https://reactnative.dev)
 - [NextJS 13](https://nextjs.org)
+- [NuxtJS 3](https://v3.nuxtjs.org)
 - [VueJS](https://vuejs.org)
-- [SolidJS](https://www.solidjs.com)
 - [Flutter](https://flutter.dev)
 
-### Tools I have experience with:
-- [Tailwind CSS](https://tailwindcss.com)
-- [MongoDB](https://www.mongodb.com)
-- [PostgreSQL](https://www.postgresql.org)
-- [Firebase](https://firebase.google.com)
-- [Redux](https://redux.js.org)
-- [IDA](https://hex-rays.com/ida-pro)
-- [ImHex](https://imhex.werwolv.net)
-- [Ettercap](https://www.ettercap-project.org)
-- [Wireshark](https://www.wireshark.org)
+### Tools & Technologies
+- **Databases:** [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org), [Firebase](https://firebase.google.com)
+- **Reverse Engineering:** [IDA](https://hex-rays.com/ida-pro), [Ghidra](https://ghidra-sre.org), [ImHex](https://imhex.werwolv.net)
+- **Networking:** [Wireshark](https://www.wireshark.org), [Ettercap](https://www.ettercap-project.org)
+- **State Management:** [Redux](https://redux.js.org)
 
-### My hobbies:
-- Playing the guitar and piano.
-- Coding.
-- Reverse engineering.
-- Finding exploits (*and reporting them of course :D*).
-- Learning.
+---
 
-### I'm familiar with:
-- Full-stack web development.
-- Low-level networking protocols, concepts and implementations.
-- Low-level languages and reverse engineering (ASM, C, C++, Rust...).
-- High-level VM/interpeted languages (C#, TS, Java...).
-- Software design patterns and principles (DDD, SOLID, MVC, EDA...).
+## Expertise
+- **Full-Stack Web Development:** Building robust and scalable web applications.
+- **Reverse Engineering:** Analyzing low-level code with tools like IDA and Ghidra.
+- **Low-Level Programming:** Working with ASM, C, C++, and Rust.
+- **Networking:** Understanding protocols and implementations.
+- **Software Design:** Applying patterns like MVC, DDD, and SOLID principles.
 
-### A few cool achievements worth mentioning:
-- At 5th grade I found a major exploit in my elementary school's website. I reported it and it got fixed by the developers.
-- At 8th grade I managed to phish the phone numbers of **all students** in my school (for educational purposes).
+---
 
-### Technical information:
-- Editor or IDE: [Zed](https://zed.dev) / [VSCode](https://code.visualstudio.com) / [JetBrains](https://www.jetbrains.com/), all with [vim](https://www.vim.org) keybinds.
-- Operating System: [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) PC | [Kali Linux](https://www.kali.org) laptop.
-- Reverse Engineering Setup: [IDA](https://hex-rays.com/ida-free) alongside [ImHex](https://imhex.werwolv.net).
+## Early Achievements
+- **5th Grade:** Identified and reported a major exploit in my school’s website, built on a widely used forum website builder, impacting a larger organization beyond just the school. It was promptly fixed by the developers after I reported it to the school's staff.
+- **8th Grade:** Successfully phished all student phone numbers at my school (for educational purposes). They learned a valuable lesson about phishing!
 
-Thanks for checking out!
+---
+
+## Hobbies
+- Playing guitar and piano
+- Coding and tinkering with new projects
+- Reverse engineering software
+- Hunting for exploits (and reporting them responsibly!)
+- Learning
+
+---
+
+## My Setup
+- **Editors/IDEs:** [Zed](https://zed.dev), [VSCode](https://code.visualstudio.com), [JetBrains](https://www.jetbrains.com/) - all with [Vim](https://www.vim.org) keybinds
+- **Operating Systems:** [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) (PC), [Kali Linux](https://www.kali.org) (laptop)
+- **Reverse Engineering:** [IDA](https://hex-rays.com/ida-free) + [Ghidra](https://ghidra-sre.org) paired with [ImHex](https://imhex.werwolv.net)
+
+---
+
+Thanks for stopping by! Feel free to check out my [website](https://alonhoresh.com).
