@@ -36,7 +36,7 @@ I’m Alon Horesh, a software developer with expertise in coding, reverse engine
 - **Full-Stack Web Development:** Building robust and scalable web applications.
 - **Reverse Engineering:** Analyzing low-level code with tools like IDA and Ghidra.
 - **Low-Level Programming:** Working with ASM, C, C++, and Rust.
-- **Networking:** Understanding protocols and implementations.
+- **Networking:** Understanding protocols and implementations, executing attacks like ARP/DNS spoofing, WEP cracking, web shell exploitations, etc.
 - **Software Design:** Applying patterns like MVC, DDD, and SOLID principles.
 
 ---
@@ -51,14 +51,14 @@ I’m Alon Horesh, a software developer with expertise in coding, reverse engine
 - Playing guitar and piano
 - Coding and tinkering with new projects
 - Reverse engineering software
-- Hunting for exploits (and reporting them responsibly!)
+- Hunting for exploits (and reporting them of course!)
 - Learning
 
 ---
 
 ## My Setup
-- **Editors/IDEs:** [Zed](https://zed.dev), [VSCode](https://code.visualstudio.com), [JetBrains](https://www.jetbrains.com/) - all with [Vim](https://www.vim.org) keybinds
-- **Operating Systems:** [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) (PC), [Kali Linux](https://www.kali.org) (laptop)
+- **Editors/IDEs:** [Neovim](https://neovim.io), [VSCode](https://code.visualstudio.com), [JetBrains](https://www.jetbrains.com/) - all with [Vim](https://www.vim.org) motion controls
+- **Operating Systems:** [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) (PC), [Kali Linux](https://www.kali.org) (laptop), [BlackArch](https://blackarch.org) (i use arch btw)
 - **Reverse Engineering:** [IDA](https://hex-rays.com/ida-free) + [Ghidra](https://ghidra-sre.org) paired with [ImHex](https://imhex.werwolv.net)
 
 ---
