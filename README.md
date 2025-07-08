@@ -1,66 +1,82 @@
-<h1 align="center">Alon Horesh</h1>
-<h3 align="center"><a href="https://alonhoresh.com">Visit My Website</a></h3>
+# Alon Horesh
+
+### [Check out my website →](https://alonhoresh.com)
 
 ---
 
-## About Me
-I’m Alon Horesh, a software developer with expertise in coding, reverse engineering, and cybersecurity. My experience spans full-stack web development, low-level programming, and exploit discovery. I’m committed to staying up to date with new technologies and refining my skills. I also mentor students in a high school cyber program. Beyond tech, I enjoy playing guitar and piano.
+## Hey there! 👋
+
+I'm Alon, a software developer who gets excited about understanding how things work at a fundamental level. Whether I'm building web applications, reverse engineering binaries, or hunting for security vulnerabilities, I'm always curious about what's happening under the hood. I love exploring new technologies and there's always something new to learn in this field - honestly, I'm probably too all over the place. I'll get fascinated by something today, spend a week diving deep into it, and then suddenly get distracted by something completely different that catches my attention.
+
+When I'm not coding, you'll find me jamming on guitar and piano.
 
 ---
 
-## Skills
+## What I Work With
 
-### Programming Languages
-- **Web:** [JavaScript](https://www.javascript.com), [TypeScript](https://www.typescriptlang.org), [NodeJS](https://nodejs.org), [HTML5](https://en.wikipedia.org/wiki/HTML5), [CSS](https://en.wikipedia.org/wiki/CSS)
-- **Mobile:** [Dart](https://dart.dev), [Kotlin](https://kotlinlang.org)
-- **Systems:** [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B), [Rust](https://rust-lang.org), [x86 Assembly](https://en.wikipedia.org/wiki/Assembly_language)
-- **General Purpose:** [Python](https://www.python.org), [Java](https://www.oracle.com/java), [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), [Lua](https://www.lua.org)
-- **Databases:** [SQL](https://en.wikipedia.org/wiki/SQL), [PHP](https://www.php.net)
+### Languages I speak fluently:
+- **Web stuff:** [JavaScript](https://www.javascript.com), [TypeScript](https://www.typescriptlang.org), [NodeJS](https://nodejs.org), [HTML5](https://en.wikipedia.org/wiki/HTML5), [CSS](https://en.wikipedia.org/wiki/CSS)
+- **Mobile development:** [Dart](https://dart.dev), [Kotlin](https://kotlinlang.org)
+- **Systems programming:** [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B), [Rust](https://rust-lang.org), [x86 Assembly](https://en.wikipedia.org/wiki/Assembly_language)
+- **General-purpose:** [Python](https://www.python.org), [Java](https://www.oracle.com/java), [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), [Lua](https://www.lua.org)
+- **Data & backend:** [SQL](https://en.wikipedia.org/wiki/SQL), [PHP](https://www.php.net)
 
-### Web Frameworks
+### Frameworks that make my life easier:
 - [ReactJS](https://reactjs.org) & [React Native](https://reactnative.dev)
 - [NextJS 13](https://nextjs.org)
 - [NuxtJS 3](https://v3.nuxtjs.org)
 - [VueJS](https://vuejs.org)
 - [Flutter](https://flutter.dev)
 
-### Tools & Technologies
-- **Databases:** [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org), [Firebase](https://firebase.google.com)
-- **Reverse Engineering:** [IDA](https://hex-rays.com/ida-pro), [Ghidra](https://ghidra-sre.org), [ImHex](https://imhex.werwolv.net)
-- **Networking:** [Wireshark](https://www.wireshark.org), [Ettercap](https://www.ettercap-project.org)
-- **State Management:** [Redux](https://redux.js.org)
+### Tools I work with:
+- **Databases:** [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org), [MariaDB](https://mariadb.org), [Firebase](https://firebase.google.com)
+- **Reverse engineering:** [IDA](https://hex-rays.com/ida-pro), [Ghidra](https://ghidra-sre.org), [ImHex](https://imhex.werwolv.net)
+- **Network analysis:** [Wireshark](https://www.wireshark.org), [Ettercap](https://www.ettercap-project.org)
+- **State management:** [Redux](https://redux.js.org)
 
 ---
 
-## Expertise
-- **Full-Stack Web Development:** Building robust and scalable web applications.
-- **Reverse Engineering:** Analyzing low-level code with tools like IDA and Ghidra.
-- **Low-Level Programming:** Working with ASM, C, C++, and Rust.
-- **Networking:** Understanding protocols and implementations, executing attacks like ARP/DNS spoofing, WEP cracking, web shell exploitations, etc.
-- **Software Design:** Applying patterns like MVC, DDD, and SOLID principles.
+## What I'm Good At
+
+**Full-stack web development** - I build applications that actually work and scale properly, from the database all the way to the user interface.
+
+**Reverse engineering** - Give me a binary and some time with IDA or Ghidra, and I'll tell you exactly what it's doing under the hood.
+
+**Low-level programming** - Assembly and systems languages like C, C++, and Rust are where I feel most at home. There's something satisfying about working close to the hardware.
+
+**Network security** - I understand protocols and know how to find their weak points. I've done my share of ARP spoofing, DNS manipulation, WEP cracking, and web shell exploitation.
+
+**Software architecture** - I follow solid design patterns (MVC, DDD, SOLID principles) because maintainable code is happy code.
 
 ---
 
-## Early Achievements
-- **5th Grade:** Identified and reported a major exploit in my school’s website, built on a widely used forum website builder, impacting a larger organization beyond just the school. It was promptly fixed by the developers after I reported it to the school's staff.
-- **8th Grade:** Successfully phished all student phone numbers at my school (for educational purposes). They learned a valuable lesson about phishing!
+## Some Fun Stories
+
+**Back in 5th grade,** I discovered a major security flaw in my school's website. Turns out it was built on a popular forum platform, so the exploit actually affected way more than just our school. I reported it to the staff, and the developers fixed it pretty quickly.
+
+**In 8th grade,** I managed to phish every student's phone number at my school (don't worry, it was for educational purposes!). Let's just say everyone learned a valuable lesson about phishing that day.
 
 ---
 
-## Hobbies
+## When I'm Not Coding
+
 - Playing guitar and piano
-- Coding and tinkering with new projects
-- Reverse engineering software
-- Hunting for exploits (and reporting them of course!)
-- Learning
+- Building random projects that seem like good ideas at 2 AM
+- Reverse engineering software to understand how it works
+- Bug hunting and responsible disclosure
+- Playing around with my SDR (software-defined radio) - receiving live images from NOAA weather satellites and mapping ADS-B signals from planes
+- Learning whatever catches my attention
 
 ---
 
-## My Setup
-- **Editors/IDEs:** [Neovim](https://neovim.io), [VSCode](https://code.visualstudio.com), [JetBrains](https://www.jetbrains.com/) - all with [Vim](https://www.vim.org) motion controls
-- **Operating Systems:** [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) (PC), [Kali Linux](https://www.kali.org) (laptop), [BlackArch](https://blackarch.org) (i use arch btw)
-- **Reverse Engineering:** [IDA](https://hex-rays.com/ida-free) + [Ghidra](https://ghidra-sre.org) paired with [ImHex](https://imhex.werwolv.net)
+## My Daily Setup
+
+**Code editors:** [Neovim](https://neovim.io), [VSCode](https://code.visualstudio.com), [JetBrains](https://www.jetbrains.com/) suite - all configured with [Vim](https://www.vim.org) keybindings because life's too short for arrow keys
+
+**Operating systems:** [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) on my main PC, [Kali Linux](https://www.kali.org) on my laptop, and [BlackArch](https://blackarch.org) because, well, I use Arch btw
+
+**Reverse engineering setup:** [IDA](https://hex-rays.com/ida-free) + [Ghidra](https://ghidra-sre.org) for the heavy lifting, with [ImHex](https://imhex.werwolv.net) for investigating and analysis
 
 ---
 
-Thanks for stopping by! Feel free to check out my [website](https://alonhoresh.com).
+Thanks for reading! If you want to learn more about me or check out some of my projects, head over to my [website](https://alonhoresh.com).
